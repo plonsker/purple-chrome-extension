@@ -1,2 +1,3 @@
-# plonsker-purple
-A clone of purple.com as a chrome extension 
+# Purple Extension
+
+A clone of purple.com as a chrome extension.
