@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 
-	"name": "Plonsker Purple Plugin",
-	"description": "This extension is a purple.com clone as a chrome extension",
+	"name": "Purple Chrome Extension",
+	"description": "This extension is a purple.com clone as a chrome extension. Made by Joe Plonsker.",
 	"version": "1.0",
 
 	"browser_action": {
